@@ -1,14 +1,13 @@
 ## Welcome!
 
-Haley here!
+Haley Tran
 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Introduction
 
 ```markdown
-Syntax highlighted code block
+Self-Introduction
 
 # Header 1
 ## Header 2
