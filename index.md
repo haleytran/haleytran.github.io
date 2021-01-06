@@ -1,16 +1,13 @@
 ### Haley Kim Tran
-![screenshot](
+![screenshot](IMG_1485 2.JPG)
+
 ## MINI-BIO
 
 My name is Phuoc Kim Tran, but I go by Haley. I am a 4th year undergraduate student at UC San Diego. I am in Warren College, majoring in Mathematics-Computer Science. I love learning new languages and engaging with new cultures through exploring their music and movies. I am interested in learning more about web development, AI, and machine learning. 
 
+## Contact
 
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+Email: pkt006@ucsd.edu
 
 **Bold** and _Italic_ and `Code` text
 
@@ -23,6 +20,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/haleytran/haleytran.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
