@@ -1,25 +1,28 @@
-### Haley Kim Tran
-![screenshot](IMG_1485 2.JPG)
+# Haley Kim Tran
+
+![haley](IMG_1485 2.JPG)
 
 ## MINI-BIO
 
-My name is Phuoc Kim Tran, but I go by Haley. I am a 4th year undergraduate student at UC San Diego. I am in Warren College, majoring in Mathematics-Computer Science. I love learning new languages and engaging with new cultures through exploring their music and movies. I am interested in learning more about web development, AI, and machine learning. 
+My name is Phuoc Kim Tran, but I go by Haley. My pronouns are she, her, and hers. I am a 4th year undergraduate student at UC San Diego. I am in Warren College, majoring in Mathematics-Computer Science. I love learning new [languages]() and engaging with new cultures through exploring their music and movies. I am interested in learning more about web development, AI, and machine learning. 
+
+In the words of [Brian Herbert](https://www.pinterest.com/pin/160440805452520296/):
+> The capacity to learn is a ***gift***; the ability to learn is a ***skill***; the willingness to learn is a ***choice***.
 
 ## Contact
 
 Email: pkt006@ucsd.edu
 
-**Bold** and _Italic_ and `Code` text
+## Languages
+###### in the order of proficiency
 
-[Link](url) and ![Image](src)
-```
+1. English
+2. Vietnamese
+3. Mandarin
+4. Thai
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Courses Taken
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/haleytran/haleytran.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[x] CSE 100
+[x] CSE 130
+[ ] CSE 141
