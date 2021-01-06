@@ -23,6 +23,6 @@ Email: pkt006@ucsd.edu
 
 ## Courses Taken
 
-[x] CSE 100
-[x] CSE 130
-[ ] CSE 141
+- [x] CSE 100
+- [x] CSE 130
+- [ ] CSE 141
