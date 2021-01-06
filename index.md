@@ -1,17 +1,8 @@
-## Welcome!
+## HALEY'S BIO
 
-Haley Tran
+My name is Phuoc Kim Tran, but I go by Haley. I am a 4th year undergraduate student at UC San Diego. I am in Warren College, majoring in Mathematics-Computer Science. I love learning new languages and engaging with new cultures through exploring their music and movies. I am interested in learning more about web development, AI, and machine learning. 
 
 
-
-### Introduction
-
-```markdown
-Self-Introduction
-
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
