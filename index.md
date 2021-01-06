@@ -13,8 +13,7 @@ In the words of [Brian Herbert](https://www.pinterest.com/pin/160440805452520296
 
 Email: pkt006@ucsd.edu
 
-## Languages
-###### in the order of proficiency
+## Languages  ###### in the order of proficiency
 
 1. English
 2. Vietnamese
