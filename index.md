@@ -17,9 +17,9 @@ Email: pkt006@ucsd.edu
 
 **Language**      **(Fluency)**
 1. English        (*advance*)
-2. Vietnamese     (*intermidiate/advance*)
+2. Vietnamese     (*intermediate/advance*)
 3. Mandarin       (*beginner/intermediate*)
-4. Thai           (*beginner/intermidiate*)
+4. Thai           (*beginner/intermediate*)
 
 ## Courses Taken
 
