@@ -15,7 +15,7 @@ Email: pkt006@ucsd.edu
 
 ## Languages Spoken
 
-**Language**      **(Fluency)**
+**Language**      **(*Fluency*)**
 1. English        (*advance*)
 2. Vietnamese     (*intermediate/advance*)
 3. Mandarin       (*beginner/intermediate*)
