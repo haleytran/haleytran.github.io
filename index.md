@@ -15,13 +15,32 @@ Email: pkt006@ucsd.edu
 
 ## Languages Spoken
 
-1. English
-2. Vietnamese
-3. Mandarin
-4. Thai
+**Language**      **Fluency**
+1. English        *advance*
+2. Vietnamese     *intermidiate/advance*
+3. Mandarin       *beginner/intermediate*
+4. Thai           *beginner/intermidiate*
 
 ## Courses Taken
 
-- [x]  CSE 100
-- [x]  CSE 130
-- [ ]  CSE 141
+- [x] CSE 100
+- [x] CSE 130
+- [ ] CSE 141
+
+## Languages I Want to Learn
+
+- Korean
+- French
+- ~~Russian~~
+
+## Programming Languages
+
+1. Java
+   - CSE 8A
+   - CSE 8B
+2. C
+   - CSE 100
+3. Haskell
+   - CSE 130
+   
+
